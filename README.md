@@ -14,8 +14,8 @@ A single repository that spins up a local OMGX system based on dockers. This rep
 
 ```bash
 
-$ git clone git@github.com:omgnetwork/omgx-integration.git
-$ cd omgx-integration
+$ git clone git@github.com:omgnetwork/omgx_integration.git
+$ cd omgx_integration
 
 ```
 
@@ -37,4 +37,4 @@ This will spin up both chains, deploy all the needed contracts, and fund several
 
 ## Integration Testing
 
-Please see the `omgx-integration-test` repo (coming soon). These should all exit with code 0.
+Please see the `omgx_integration-test` repo (coming soon). These should all exit with code 0.

@@ -1,6 +1,6 @@
 # OMGX Integration
 
-A single repository that spins a local OMGX system based on dockers. This repo is good starting point to become familiar with the system, run integration tests, and deploy your contracts to a local net. 
+A single repository that spins up a local OMGX system based on dockers. This repo is a good starting point for becoming familiar with the system, run integration tests, and deploy your contracts to a local net. 
 
 ## Requirements
 

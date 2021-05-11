@@ -10,7 +10,7 @@ A single repository that spins up a local OMGX system based on dockers. This rep
   - At least version 1.27.3
 - Recommended Docker memory allocation of >=8 GB.
 
-## Setup and Testing - Local
+## Setup
 
 ```bash
 
@@ -25,8 +25,6 @@ Docker will automatically use local images (if found), or Docker will pull the l
 $ docker-compose -f docker-compose-local.yml pull
 
 ```
-
-### Local
 
 To run the entire system (L1 + L2) locally:
 ```bash

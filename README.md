@@ -20,6 +20,7 @@ $ cd omgx_integration
 ```
 
 Docker will automatically use local images (if found), or Docker will pull the latest ones from [Dockerhub](https://hub.docker.com/u/omgx). To pull the latest images, run:
+
 ```bash
 
 $ docker-compose -f docker-compose-local.yml pull
@@ -27,6 +28,7 @@ $ docker-compose -f docker-compose-local.yml pull
 ```
 
 To run the entire system (L1 + L2) locally:
+
 ```bash
 
 $ ./up_local.sh

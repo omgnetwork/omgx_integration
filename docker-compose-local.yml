@@ -31,5 +31,8 @@ services:
   message_relayer:
     image: omgx/message-relayer:latest
 
+  custom_message_relayer:
+    image: omgx/custom-message-relayer:latest
+  
 volumes:
   geth:
